@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "13950f1871a8d4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valor tiempo del dinero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valor tiempo del dinero"
+            }
+          },
+          {
+            "id": "b7c00aad4b84acf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interés simple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interés simple"
+            }
+          },
+          {
+            "id": "3e8f562a1debabc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interés compuesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interés compuesto"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,9 +229,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25a62734b619a51c",
+  "active": "3e8f562a1debabc8",
   "lastOpenFiles": [
+    "Pasted image 20250519191531.png",
+    "Pasted image 20250519191331.png",
+    "Pasted image 20250519191300.png",
     "README.md",
+    "Interés compuesto.md",
+    "Interés simple.md",
+    "Valor tiempo del dinero.md",
+    "Pasted image 20250519190955.png",
+    "Pasted image 20250519190814.png",
+    "Pasted image 20250519190809.png",
+    "Pasted image 20250519190457.png",
+    "Pasted image 20250519190448.png",
+    "Pasted image 20250519190032.png",
+    "Pasted image 20250519190026.png",
+    "Pasted image 20250519185905.png",
+    "Clase 10.md",
     "Redes II.md",
     "Welcome.md",
     "create a link.md",
@@ -201,16 +259,6 @@
     "ECO - Clase 4 probablemente.md",
     "ECO - Ejercicio de maximización para la clase 5 - 14.4.25.md",
     "ECO - Apuntes adicionales - LE.md",
-    "Pasted image 20250429140100.png",
-    "Pasted image 20250429140042.png",
-    "Pasted image 20250429140027.png",
-    "Pasted image 20250429140015.png",
-    "Pasted image 20250429140013.png",
-    "Pasted image 20250429135805.png",
-    "Pasted image 20250429135731.png",
-    "Pasted image 20250429135658.png",
-    "Pasted image 20250429135638.png",
-    "Pasted image 20250429135552.png",
     "REII - Clase 6 - Lab 5 - Luciano Esteban.md",
     "REII - Clase 6 práctica.md",
     "REII - Clase 4 - Lab 3 - Luciano Esteban.md",
@@ -222,10 +270,6 @@
     "ECO - Clase 1.md",
     "Economía.pdf",
     "ECO - Clases de años pasados.md",
-    "OS - FE - Componentes compartidos de un programa entre hilos y procesos multihilos.md",
-    "BD 1 - Clase 1.md",
-    "BD 1 - Clase 2.md",
-    "BD 1 - Clase 4.md",
     "Instructivo de Guardium Discover and Classify - Recomendación de templates.docx.pdf",
     "Lab 4- VoIP.pdf",
     "Redes II - Clase 5 - Apuntes.pdf",
