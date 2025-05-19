@@ -1,4 +1,5 @@
-Este es el concepto más importante en finanzas.
+Este es el concepto más importante en finanzas. A partir de acá sale todo.
+En particular, de acá sale el concepto del [[Interés simple]] e [[Interés compuesto]].
 
 # Valor tiempo del dinero (VTD)
 

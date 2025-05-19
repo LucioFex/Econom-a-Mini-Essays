@@ -8,5 +8,18 @@ Apuntes de la materia "**Economía**" de la carrera de Ingeniería en Informáti
 **Clase 10**: Mercado de capitales, bonos.
 - **Libro recomendado**: The Bond and Money Markets: Strategy,Trading, Analysis - Moorad Choudhry
 - [[Valor tiempo del dinero]]
-- [[Interés simple]]
-- [[Interés compuesto]]
+	- [[Interés simple
+	- [[Interés compuesto]]
+- [[Tasa efectiva anual]]
+- [[Bono]]
+	- [[Colocación primaria]]
+	- [[Precio de un bono]]
+		- [[Cashflows]]
+- [[Principales emisores de deuda local]]
+- [[Participantes de mercado]]
+
+
+
+pregunta estilo parcial: **¿Qué es un bono?**
+
+
