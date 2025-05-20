@@ -1,5 +1,6 @@
-- ## [[Estructura de un bono - Calificación por tasa]]
-- ## [[Estructura de un bono - Calificación por amortización]]
+![[Estructura de un bono - Calificación por tasa]]
+
+-![[Estructura de un bono - Calificación por amortización]]
 
 ---
 
