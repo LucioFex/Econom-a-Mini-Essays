@@ -1,7 +1,7 @@
 **Discount Rate basis (DR) — la “tasa de descuento” de las letras**
 
 ## ¿Qué mide?
-Es la forma clásica (sobre todo en T-Bills y commercial papers) de cotizar el rendimiento de un título _sin cupón_ que se emite **a descuento** y devuelve el 100 % de su valor nominal al vencimiento. En vez de mirar la ganancia sobre lo que pagás hoy, la DR compara la rebaja frente al **valor nominal**.
+Es la forma clásica (sobre todo en T-Bills y commercial papers) de cotizar el rendimiento de un título _sin cupón_ que se emite **a descuento** y devuelve el 100 % de su valor nominal al vencimiento. En vez de mirar la ganancia sobre lo que pagas hoy, la DR compara la rebaja frente al **valor nominal**.
 
 ## ¿Cómo se usa?
 #### El precio se calcula así:
