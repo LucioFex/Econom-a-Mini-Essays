@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Estructura de un bono"
             }
+          },
+          {
+            "id": "c36eaccbcb6fcdc8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -188,7 +198,10 @@
   },
   "active": "8dd27413724eb900",
   "lastOpenFiles": [
+    "Pasted image 20250519212609.png",
+    "Estructura de un bono - Calificación por amortización.md",
     "Estructura de un bono.md",
+    "Estructura de un bono - Calificación por tasa.md",
     "Bono.md",
     "README.md",
     "TIR.md",
@@ -221,9 +234,6 @@
     "Interés simple.md",
     "Interés compuesto.md",
     "Clase 10.md",
-    "Redes II.md",
-    "Welcome.md",
-    "create a link.md",
     "Lab5_NAT_firewall.pdf",
     "ECO - Clase 4.pdf",
     "Economía.pdf",
