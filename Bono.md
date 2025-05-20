@@ -4,6 +4,11 @@ futuras predeterminadas en las condiciones de emisión.
 
 ![[Pasted image 20250519193156.png]]
 
-A partir de acá sale el tema: [[Colocación primaria]].
-Otra cosa importante de acá es el [[Precio de un bono]]
+A partir de acá sale el tema: .
+Otra cosa importante de acá es el
+
+Temas relacionados:
+- [[Colocación primaria]]
+- [[Precio de un bono]]
+- [[Estructura de un bono]]
 
