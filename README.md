@@ -14,7 +14,7 @@ Apuntes de la materia "**Economía**" de la carrera de Ingeniería en Informáti
 	- [[Colocación primaria]]
 	- [[Precio de un bono]]
 		- [[Cashflows]]
-	- Estructura de un bono
+	- [[Estructura de un bono]]
 - [[Principales emisores de deuda local]]
 - [[Participantes de mercado]]
 - [[Add-on rate(AOR)]]
