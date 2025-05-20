@@ -12,5 +12,11 @@ Es la forma clásica (sobre todo en T-Bills y commercial papers) de cotizar el r
 - Por eso, para la misma letra, la DR resulta **algo menor** que la Add-On Rate (AOR), que divide por el precio efectivamente desembolsado.
 - A plazos muy cortos la diferencia es pequeña; a medida que se alarga el plazo (o sube el descuento) la brecha se nota más.
 
-### Ejemplo rápido
+### Ejemplo
+Pregunta:
+![[Pasted image 20250519210215.png]]
+Respuesta:
+![[Pasted image 20250519210227.png]]
+Más detalle:
 ![[Pasted image 20250519210151.png]]
+

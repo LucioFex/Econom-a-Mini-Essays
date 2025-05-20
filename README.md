@@ -18,6 +18,7 @@ Apuntes de la materia "**Economía**" de la carrera de Ingeniería en Informáti
 - [[Participantes de mercado]]
 - [[Add-on rate(AOR)]]
 - [[Discount rate (DR)]]
+- [[Bond-Equivalent Yield (BEY)]]
 
 
 
