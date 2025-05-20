@@ -1,6 +1,6 @@
 # Economía-Mini-Essays
 Apuntes de la materia "**Economía**" de la carrera de Ingeniería en Informática.
-![[Pasted image 20250519212840.png]]
+![image](https://github.com/user-attachments/assets/eda95554-b45e-432e-8bdd-8cd8aa85190a)
 
 ## Clases
 
@@ -14,7 +14,7 @@ Apuntes de la materia "**Economía**" de la carrera de Ingeniería en Informáti
 	- [[Colocación primaria]]
 	- [[Precio de un bono]]
 		- [[Cashflows]]
-	- [[Estructura de un bono]]
+	- Estructura de un bono
 - [[Principales emisores de deuda local]]
 - [[Participantes de mercado]]
 - [[Add-on rate(AOR)]]
